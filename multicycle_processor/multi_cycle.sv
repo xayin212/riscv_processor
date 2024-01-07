@@ -1,3 +1,5 @@
+// functional functions are lw, sw, add, sub, slt, or, and, 
+
 
 module testbench();
 
